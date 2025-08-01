@@ -4,6 +4,7 @@ new line
 i am here
 
 
+
 Task -102
 
 public void m2()
@@ -12,4 +13,4 @@ public void m2()
   int b=20;
   int c=a+b;
   System.out.prinltn(c);
-}
+=======
